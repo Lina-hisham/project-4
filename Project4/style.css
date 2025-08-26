@@ -1,5 +1,6 @@
 h1 {
-    color:;    
+    color:white;
+    background: black;    
 
 .libre-baskerville-regular 
   font-family: "Libre Baskerville", serif;
@@ -19,4 +20,10 @@ h1 {
   font-style: italic;
 
 
+
+}
+
+img { 
+  border : 5px solid white ;
+  width: 100%;
 }
