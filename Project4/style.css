@@ -1,6 +1,5 @@
-h1 {
+#h1 {
     color:white;
-    background: black;    
 
 .libre-baskerville-regular 
   font-family: "Libre Baskerville", serif;
@@ -22,8 +21,19 @@ h1 {
 
 
 }
+div {
+  color: white;
+margin: 25%;
+  text-align: center;
+  width: 50%;
 
-img { 
-  border : 5px solid white ;
-  width: 100%;
+}
+
+
+body{
+  background-color: black;
+}
+
+#img{
+  border: 5px solid white;
 }
